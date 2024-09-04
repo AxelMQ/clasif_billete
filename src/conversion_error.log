@@ -1,0 +1,1 @@
+Command '['tensorflowjs_converter', '--input_format=keras', '../src/models/result/cnn_AD_pet.h5', '../src/salida']' returned non-zero exit status 1.
